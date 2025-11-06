@@ -196,3 +196,4 @@ This project is not affiliated with, endorsed by, or sponsored by CodeWeavers In
 ⭐ Star this repo if it helped you!
 
 </div>
+# crossover-reset
