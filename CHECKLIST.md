@@ -34,7 +34,7 @@ cp README_GITHUB.md README.md
 
 # Edit to add your GitHub username
 nano README.md
-# (Replace YOUR_USERNAME with your actual username)
+# (Replace YOUR_USERNAME with SoufyaneMoudabbbir)
 ```
 
 - [ ] README updated with your username
@@ -49,8 +49,8 @@ git init
 git add .
 git commit -m "Initial commit: CrossOver Trial Reset Mac App"
 
-# Push to GitHub (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/crossover-reset.git
+# Push to GitHub
+git remote add origin https://github.com/SoufyaneMoudabbbir/crossover-reset.git
 git branch -M main
 git push -u origin main
 ```
@@ -94,10 +94,10 @@ zip -r "CrossOver.Reset.app.zip" "CrossOver Reset.app"
 ## 🎉 You're Done!
 
 Your app is live at:
-`https://github.com/YOUR_USERNAME/crossover-reset`
+`https://github.com/SoufyaneMoudabbbir/crossover-reset`
 
 Download link:
-`https://github.com/YOUR_USERNAME/crossover-reset/releases`
+`https://github.com/SoufyaneMoudabbbir/crossover-reset/releases`
 
 ---
 

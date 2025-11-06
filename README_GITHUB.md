@@ -10,7 +10,7 @@
 
 A simple, safe Mac application that resets CrossOver's trial period while keeping all your bottles and Windows applications intact.
 
-[Download Latest Release](https://github.com/YOUR_USERNAME/crossover-reset/releases/latest) • [Report Bug](https://github.com/YOUR_USERNAME/crossover-reset/issues) • [Request Feature](https://github.com/YOUR_USERNAME/crossover-reset/issues)
+[Download Latest Release](https://github.com/SoufyaneMoudabbbir/crossover-reset/releases/latest) • [Report Bug](https://github.com/SoufyaneMoudabbbir/crossover-reset/issues) • [Request Feature](https://github.com/SoufyaneMoudabbbir/crossover-reset/issues)
 
 </div>
 
@@ -20,7 +20,7 @@ A simple, safe Mac application that resets CrossOver's trial period while keepin
 
 ### Quick Start
 
-1. **Download** the latest `CrossOver.Reset.app.zip` from [Releases](https://github.com/YOUR_USERNAME/crossover-reset/releases)
+1. **Download** the latest `CrossOver.Reset.app.zip` from [Releases](https://github.com/SoufyaneMoudabbbir/crossover-reset/releases)
 2. **Unzip** the file
 3. **Right-click** `CrossOver Reset.app` → Select **"Open"**
 4. Click **"Open"** in the security dialog (only needed first time)
@@ -91,7 +91,7 @@ You only need to do this once!
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/crossover-reset.git
+git clone https://github.com/SoufyaneMoudabbbir/crossover-reset.git
 cd crossover-reset
 
 # 2. Make scripts executable
@@ -184,7 +184,7 @@ This project is not affiliated with, endorsed by, or sponsored by CodeWeavers In
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/crossover-reset/issues)
+- **Issues:** [GitHub Issues](https://github.com/SoufyaneMoudabbbir/crossover-reset/issues)
 - **Questions:** Create a discussion in the repository
 
 ---

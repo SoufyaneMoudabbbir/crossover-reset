@@ -33,14 +33,14 @@ cd ~/Projects/crossover-reset
 # Use GitHub README
 cp README_GITHUB.md README.md
 
-# Edit and replace YOUR_USERNAME with your GitHub username
+# Edit and replace YOUR_USERNAME with SoufyaneMoudabbbir
 nano README.md
 
 # Upload to GitHub
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/crossover-reset.git
+git remote add origin https://github.com/SoufyaneMoudabbbir/crossover-reset.git
 git branch -M main
 git push -u origin main
 ```
@@ -91,13 +91,13 @@ cd ~/Projects/crossover-reset
 
 # Prepare README
 cp README_GITHUB.md README.md
-nano README.md  # Replace YOUR_USERNAME
+nano README.md  # Replace YOUR_USERNAME with SoufyaneMoudabbbir
 
 # Upload to GitHub
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/crossover-reset.git
+git remote add origin https://github.com/SoufyaneMoudabbbir/crossover-reset.git
 git push -u origin main
 
 # Create release zip
@@ -110,8 +110,8 @@ zip -r "CrossOver.Reset.app.zip" "CrossOver Reset.app"
 ## 🌟 After Upload
 
 Your app will be at:
-- **Repo:** `https://github.com/YOUR_USERNAME/crossover-reset`
-- **Download:** `https://github.com/YOUR_USERNAME/crossover-reset/releases`
+- **Repo:** `https://github.com/SoufyaneMoudabbbir/crossover-reset`
+- **Download:** `https://github.com/SoufyaneMoudabbbir/crossover-reset/releases`
 
 Share it:
 - Reddit: r/macapps, r/CrossOver
