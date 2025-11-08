@@ -81,7 +81,7 @@ You only need to do this once!
 
 
 ### Success
-![Success Message](screenshots/screenshot.png)
+![Success Message](screenshots/screenshot2.png)
 
 </div>
 
