@@ -74,10 +74,16 @@ You only need to do this once!
 ---
 
 ## 🖼️ Screenshots
+<div align="center">
 
-*[Add screenshots of your app here]*
+### Main Window
+![Main Window](screenshots/screenshot1.png)
 
----
+
+### Success
+![Success Message](screenshots/screenshot.png)
+
+</div>
 
 ## 💻 For Developers: Build From Source
 
